@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amit Yadav
-- 👀 I’m interested in Image Processing and Computer Vision
-- 🌱 I’m currently doing my doctorate in ECE at Purdue University
+- 👀 Research Scientist, working on Speech and Multimodal AI modeling
+- 🌱 Currently, I am building Fern (YC Company)- https://www.fern.bot/whitepaper
 - 📫 How to reach me: Connect with me on LinkedIn @ https://in.linkedin.com/in/amit-kumar-singh-yadav 
 
 <!---
