@@ -1,9 +1,5 @@
-- 👋 Hi, I’m Amit Yadav
-- 👀 Research Scientist, working on Speech and Multimodal AI modeling
-- 🌱 Currently, I am building Fern (YC Company)- https://www.fern.bot/whitepaper
-- 📫 How to reach me: Connect with me on LinkedIn @ https://in.linkedin.com/in/amit-kumar-singh-yadav 
-
-<!---
-aksy1999/aksy1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m **Amit Kumar Singh Yadav** ([Website & Research Blog](https://aksy1999.github.io/amitkumarsinghyadav.github.io/))
+- 🚀 Co-founder & CEO at **[Ishiki Labs Inc.](https://ishikilabs.ai)** (YC W26, building [Fern](https://www.fern.bot)) · Ex-Meta AI Scientist · Ph.D. in ECE, Purdue University
+- 📝 **New Research Blog (Nov 2026):** [Weight-Space Programming for Audio Models: LLMs Can Directly Edit Audio Model Weights and Compress Them](https://aksy1999.github.io/amitkumarsinghyadav.github.io/blog/weight-space-programming-for-audio-models/)
+- 🤗 **Open-Weights Models:** [ishiki-labs/ishiki-deepfake-0.5](https://huggingface.co/ishiki-labs/ishiki-deepfake-0.5) (`86.8M` & `318M`) · [ishiki-labs/ishiki-asr-0.5](https://huggingface.co/ishiki-labs/ishiki-asr-0.5)
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/amit-kumar-singh-yadav/) · [X (@moltfinds)](https://x.com/moltfinds)
